@@ -1,16 +1,14 @@
 # travel_app
 
-A new Flutter project.
+A Flutter app to review places you have visited.
 
-## Getting Started
+This project has made for practicing clean codding.
 
-This project is a starting point for a Flutter application.
+## While building this app I practiced on following technologies and patterns -
 
-A few resources to get you started if this is your first Flutter project:
+- clean coding
+- flutter_riverpod _(for state management)_
+- get_it flutter package _(for dependency injection)_
+- floor flutter package _(for local database)_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Click here for app preview](https://youtube.com/shorts/0ey61s96xeg?feature=share)
